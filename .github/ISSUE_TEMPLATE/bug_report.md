@@ -1,7 +1,7 @@
 ---
 name: Bug report
-about: Create a report to improve the project
-title: "[BUG]"
+about: Point out an issue with this project
+title: "[Write a short description of the bug]"
 labels: bug
 assignees: ''
 
@@ -23,9 +23,10 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Software Information:**
- - OS: [ex. Windows 11]
- - Software Version: [ex. 1.0.0]
+**Server and plugin versions (please complete the following information):**
+ - OS: [e.g. Windows 10]
+ - Server type (including the version): [ex. Spigot 1.16.5]
+ - Villager Defense version: [ex. 0.7.1]
 
 **Additional context**
 Add any other context about the problem here.
